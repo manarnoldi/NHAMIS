@@ -1,44 +1,151 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>NHAMIS</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
-<body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+
+<body class="hold-transition skin-blue sidebar-mini">
+    <div class="wrapper">
+        <header class="main-header">
+            <a href="index2.html" class="logo">
+                <span class="logo-mini"><b>N</b>M</span>
+                <span class="logo-lg"><b>NHA</b>MIS</span>
+            </a>
+
+            <nav class="navbar navbar-static-top" role="navigation">
+                <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                </a>
+                <div class="navbar-custom-menu">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown user user-menu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <img src="/admin-lte/img/user-image.png" width="20" class="img-circle" alt="User Image">
+                                <span class="hidden-xs">Arnold Mwadwaa</span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="user-header">
+                                    <img src="~/admin-lte/img/user-image.png" class="img-circle" alt="User Image">
+                                    <p>Arnold Mwadwaa<small>Administrator</small></p>
+                                </li>
+                                <li class="user-footer">
+                                    <div class="pull-right">
+                                        <a href="#" class="btn btn-default btn-flat">Sign out</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <aside class="main-sidebar">
+            <section class="sidebar">
+                <div class="user-panel">
+                    <div class="pull-left image">
+                        <img src="~/admin-lte/img/user-image.png" class="img-circle" alt="User Image" />
+                    </div>
+                    <div class="pull-left info">
+                        <p>Arnold Mwadwaa</p>
+                        <a href="#"><i class="fa fa-circle text-success"></i> Logged In</a>
+                    </div>
+                </div>
+
+                <form action="#" method="get" class="sidebar-form">
+                    <div class="input-group">
+                        <input type="text" name="q" class="form-control" placeholder="Search...">
+                        <span class="input-group-btn">
+                            <button type="submit" name="search" id="search-btn" class="btn btn-flat">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </span>
+                    </div>
+                </form>
+
+                <ul class="sidebar-menu" data-widget="tree">
+                    <li class="header">MAIN MENU</li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-edit"></i><span>NOMINATIONS</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="#"><i class="fa fa-circle-o"></i> VIEW</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> UPDATE</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> COMPLETE</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-list"></i><span>REPORTS</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="#"><i class="fa fa-circle-o"></i> WARRANT FORMS</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> STATE INVESTITURE</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> GAZETTE NOTICE</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> LIST OF NOMINEES</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-user"></i><span>ADMINISTRATION</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="#"><i class="fa fa-circle-o"></i> USER REGISTRATION</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> RESET PASSWORD</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> SALUTATIONS</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> ACAD QUALIFICATIONS</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> MEDALS</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> NOMINATING AGIENCIES</a></li>
+                            <li><a href="#"><i class="fa fa-circle-o"></i> NOMINATING PERIODS</a></li>
+                        </ul>
+                    </li>
                 </ul>
-                @Html.Partial("_LoginPartial")
-            </div>
+            </section>
+        </aside>
+
+        <div class="content-wrapper">
+            <section class="content-header">
+            </section>
+            <!-- Main content -->
+            <section class="content container-fluid">
+                @RenderBody()
+            </section>
+            <!-- /.content -->
         </div>
-    </div>
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        <!-- /.content-wrapper -->
+        <!-- Main Footer -->
+        <footer class="main-footer">
+            <!-- To the right -->
+            <div class="pull-right hidden-xs">
+                @*Anything you want*@
+            </div>
+            <!-- Default to the left -->
+            <strong>Copyright &copy; @DateTime.Now.Year.ToString() <a href="#">NHAMIS</a>.</strong> All rights reserved.
         </footer>
     </div>
-
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/admin-lte/js")
     @RenderSection("scripts", required: false)
 </body>
 </html>

@@ -1,0 +1,9 @@
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\bin\Debug\netstandard2.0\NHAMIS.DOMAIN.deps.json
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\bin\Debug\netstandard2.0\NHAMIS.DOMAIN.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\bin\Debug\netstandard2.0\NHAMIS.DOMAIN.pdb
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\obj\Debug\netstandard2.0\NHAMIS.DOMAIN.csprojAssemblyReference.cache
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\obj\Debug\netstandard2.0\NHAMIS.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\obj\Debug\netstandard2.0\NHAMIS.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\obj\Debug\netstandard2.0\NHAMIS.DOMAIN.AssemblyInfo.cs
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\obj\Debug\netstandard2.0\NHAMIS.DOMAIN.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.DOMAIN\obj\Debug\netstandard2.0\NHAMIS.DOMAIN.pdb

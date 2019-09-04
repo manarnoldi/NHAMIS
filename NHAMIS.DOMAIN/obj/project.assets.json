@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\Visual Studio 2015\\Projects\\NHAMIS\\NHAMIS.DOMAIN\\NHAMIS.DOMAIN.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\Visual Studio 2017\\Projects\\NHAMIS\\NHAMIS.DOMAIN\\NHAMIS.DOMAIN.csproj",
       "projectName": "NHAMIS.DOMAIN",
-      "projectPath": "C:\\Users\\USER\\Documents\\Visual Studio 2015\\Projects\\NHAMIS\\NHAMIS.DOMAIN\\NHAMIS.DOMAIN.csproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\Visual Studio 2017\\Projects\\NHAMIS\\NHAMIS.DOMAIN\\NHAMIS.DOMAIN.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\Visual Studio 2015\\Projects\\NHAMIS\\NHAMIS.DOMAIN\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\Visual Studio 2017\\Projects\\NHAMIS\\NHAMIS.DOMAIN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

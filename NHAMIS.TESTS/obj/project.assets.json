@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ARNOLD\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ARNOLD\\source\\repos\\NHAMIS\\NHAMIS.TESTS\\NHAMIS.TESTS.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\Visual Studio 2015\\Projects\\NHAMIS\\NHAMIS.TESTS\\NHAMIS.TESTS.csproj",
       "projectName": "NHAMIS.TESTS",
-      "projectPath": "C:\\Users\\ARNOLD\\source\\repos\\NHAMIS\\NHAMIS.TESTS\\NHAMIS.TESTS.csproj",
-      "packagesPath": "C:\\Users\\ARNOLD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ARNOLD\\source\\repos\\NHAMIS\\NHAMIS.TESTS\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Documents\\Visual Studio 2015\\Projects\\NHAMIS\\NHAMIS.TESTS\\NHAMIS.TESTS.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\Visual Studio 2015\\Projects\\NHAMIS\\NHAMIS.TESTS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ARNOLD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

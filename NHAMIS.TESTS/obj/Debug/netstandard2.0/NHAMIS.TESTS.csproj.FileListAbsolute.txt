@@ -1,0 +1,18 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\bin\Debug\netstandard2.0\NHAMIS.TESTS.deps.json
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\bin\Debug\netstandard2.0\NHAMIS.TESTS.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\bin\Debug\netstandard2.0\NHAMIS.TESTS.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.AssemblyInfo.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.pdb
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\bin\Debug\netstandard2.0\NHAMIS.TESTS.deps.json
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\bin\Debug\netstandard2.0\NHAMIS.TESTS.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\bin\Debug\netstandard2.0\NHAMIS.TESTS.pdb
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.csprojAssemblyReference.cache
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.csproj.CoreCompileInputs.cache
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.AssemblyInfoInputs.cache
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.AssemblyInfo.cs
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.TESTS\obj\Debug\netstandard2.0\NHAMIS.TESTS.pdb

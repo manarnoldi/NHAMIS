@@ -173,9 +173,22 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\AcademicQualification.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Citation.cs" />
+    <Compile Include="Models\County.cs" />
+    <Compile Include="Models\HonorRole.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Medal.cs" />
+    <Compile Include="Models\NominatingBody.cs" />
+    <Compile Include="Models\NominationBody.cs" />
+    <Compile Include="Models\Nomination.cs" />
+    <Compile Include="Models\NominationAttachment.cs" />
+    <Compile Include="Models\NominationPeriod.cs" />
+    <Compile Include="Models\Salutation.cs" />
+    <Compile Include="Models\Subcounty.cs" />
+    <Compile Include="Models\Ward.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>

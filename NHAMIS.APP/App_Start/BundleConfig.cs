@@ -30,6 +30,8 @@ namespace NHAMIS.APP
 
             bundles.Add(new ScriptBundle("~/admin-lte/js").Include(
                 "~/admin-lte/plugins/fastclick/fastclick.js",
+                "~/admin-lte/js/pages/dashboard2.js",
+                "~/admin-lte/js/adminlte.js",
                 "~/admin-lte/js/app.js"));
 
         }

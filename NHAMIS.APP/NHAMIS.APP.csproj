@@ -173,9 +173,16 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909050747188_Initial.cs" />
+    <Compile Include="Migrations\201909050747188_Initial.Designer.cs">
+      <DependentUpon>201909050747188_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Initialization\ModelService.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\NHAMISContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -396,6 +403,10 @@
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Models\Initialization\Constituencies.txt" />
+    <Content Include="Models\Initialization\Counties.txt" />
+    <Content Include="Models\Initialization\PostalCodesKenya.txt" />
+    <Content Include="Models\Initialization\Wards.txt" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="fonts\FontAwesome.otf" />
@@ -473,6 +484,11 @@
       <Project>{a37c9c3b-753b-4829-9abb-2e764595aabc}</Project>
       <Name>NHAMIS.DOMAIN</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201909050747188_Initial.resx">
+      <DependentUpon>201909050747188_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -110,7 +110,7 @@
                             </span>
                         </a>
                         <ul class="treeview-menu">
-                            <li><a href="#"><i class="fa fa-circle-o"></i> USER REGISTRATION</a></li>
+                            <li><a href="@Url.Action("Register", "Account")"><i class="fa fa-circle-o"></i> USER REGISTRATION</a></li>
                             <li><a href="#"><i class="fa fa-circle-o"></i> RESET PASSWORD</a></li>
                             <li><a href="#"><i class="fa fa-circle-o"></i> SALUTATIONS</a></li>
                             <li><a href="#"><i class="fa fa-circle-o"></i> ACAD QUALIFICATIONS</a></li>
@@ -124,8 +124,7 @@
         </aside>
 
         <div class="content-wrapper">
-            <section class="content-header">
-            </section>
+            <section class="content-header"></section>
             <!-- Main content -->
             <section class="content container-fluid">
                 @RenderBody()
@@ -134,13 +133,13 @@
         </div>
         <!-- /.content-wrapper -->
         <!-- Main Footer -->
-        <footer class="main-footer">
+        <footer class="main-footer text-center">
             <!-- To the right -->
             <div class="pull-right hidden-xs">
                 @*Anything you want*@
             </div>
             <!-- Default to the left -->
-            <strong>Copyright &copy; @DateTime.Now.Year.ToString() <a href="#">NHAMIS</a>.</strong> All rights reserved.
+            <strong>Copyright &copy; @DateTime.Now.Year.ToString() NHAMIS, </strong>&nbsp;All rights reserved.
         </footer>
     </div>
     @Scripts.Render("~/bundles/jquery")

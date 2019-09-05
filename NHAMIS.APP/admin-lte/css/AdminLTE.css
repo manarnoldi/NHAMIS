@@ -91,10 +91,10 @@ body {
   z-index: 800;
 }
 .main-footer {
-  background: #fff;
-  padding: 15px;
-  color: #444;
-  border-top: 1px solid #d2d6de;
+    background: #3c8dbc;
+    padding: 10px;
+    color: #fff;
+    border-top: 1px solid #d2d6de;
 }
 /* Fixed layout */
 .fixed .main-header,

@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewBag.Title = "Attachment";
+}
+
+<h2>Attachment</h2>
+<form>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="DocumentType">DocumentType </label>
+            <select id="Academic" class="form-control">
+                <option selected>Choose...</option>
+                <option>Degree</option>
+                <option>Diploma </option>
+
+            </select>
+        </div>
+
+        <div class="form-group col-md-6">
+            <label></label>
+            <input type="file" class="custom-file-input" id="inputGroupFile02">
+
+        </div>
+    </div>
+    <div class="form-group col-md-10">
+        <table class="table table-dark" border="1">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Attachment Type</th>
+                    <th scope="col">Attachment Document</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Mark</td>
+                    <td>February 17, 2009</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td>Jacob</td>
+                    <td>February 17, 2009</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">3</th>
+                    <td>Larry</td>
+                    <td>February 17, 2009</td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+
+            <button type="submit" class="btn btn-default"><< Previous</button>
+
+        </div>
+        <div class="form-group col-md-6">
+
+            <button type="submit" class="btn btn-default">Next >></button>
+
+        </div>
+    </div>
+
+
+</form>

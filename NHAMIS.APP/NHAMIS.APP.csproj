@@ -176,7 +176,6 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
-    <Compile Include="Models\NHAMISContect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -456,9 +455,23 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_Layout - Copy.cshtml" />
+    <Content Include="Views\Home\Citation.cshtml" />
+    <Content Include="Views\Home\NominatingBody.cshtml" />
+    <Content Include="Views\Home\OtherDetails.cshtml" />
+    <Content Include="Views\Home\Attachment.cshtml" />
+    <Content Include="Views\Home\Medals.cshtml" />
+    <Content Include="Views\Home\RoleOfHonor.cshtml" />
+    <Content Include="Views\Home\County.cshtml" />
+    <Content Include="Views\Home\SubCounty.cshtml" />
+    <Content Include="Views\Home\Ward.cshtml" />
+    <Content Include="Views\Home\NominationPeriod.cshtml" />
+    <Content Include="Views\Home\Salutation.cshtml" />
+    <Content Include="Views\Home\NominatingBodies.cshtml" />
+    <Content Include="Views\Home\AcademicQual.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\NewFolder1\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -468,6 +481,12 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NHAMIS.DOMAIN\NHAMIS.DOMAIN.csproj">
+      <Project>{a37c9c3b-753b-4829-9abb-2e764595aabc}</Project>
+      <Name>NHAMIS.DOMAIN</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

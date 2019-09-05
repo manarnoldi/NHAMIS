@@ -103,6 +103,106 @@ C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\obj\Debug\NHAMIS.APP.csproj.CoreC
 C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\obj\Debug\NHAMIS.APP.csproj.CopyComplete
 C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\obj\Debug\NHAMIS.APP.dll
 C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\obj\Debug\NHAMIS.APP.pdb
+<<<<<<< HEAD
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\Microsoft.Win32.Primitives.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\netstandard.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.AppContext.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Collections.Concurrent.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Collections.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Collections.NonGeneric.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Collections.Specialized.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.ComponentModel.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.ComponentModel.Primitives.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Console.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Data.Common.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Contracts.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Debug.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Process.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.StackTrace.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Tools.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.TraceSource.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Tracing.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Drawing.Primitives.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Dynamic.Runtime.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Globalization.Calendars.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Globalization.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Globalization.Extensions.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.Compression.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.Compression.ZipFile.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.FileSystem.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.IsolatedStorage.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.Pipes.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Linq.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Linq.Expressions.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Linq.Parallel.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Linq.Queryable.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.Http.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.NameResolution.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.NetworkInformation.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.Ping.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.Primitives.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.Requests.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.Security.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.Sockets.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.WebHeaderCollection.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.WebSockets.Client.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Net.WebSockets.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.ObjectModel.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Reflection.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Reflection.Extensions.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Reflection.Primitives.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Resources.Reader.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Resources.ResourceManager.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Resources.Writer.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.Extensions.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.Handles.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.InteropServices.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.Numerics.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.Serialization.Json.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Security.Claims.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.Csp.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Security.Principal.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Security.SecureString.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Text.Encoding.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Text.Encoding.Extensions.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Text.RegularExpressions.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Threading.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Threading.Overlapped.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Threading.Tasks.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Threading.Thread.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Threading.ThreadPool.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Threading.Timer.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.ValueTuple.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Xml.ReaderWriter.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Xml.XDocument.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Xml.XmlDocument.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Xml.XmlSerializer.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Xml.XPath.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\System.Xml.XPath.XDocument.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\NHAMIS.DOMAIN.dll
+C:\Users\ARNOLD\source\repos\NHAMIS\NHAMIS.APP\bin\NHAMIS.DOMAIN.pdb
+=======
 C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\NHAMIS.APP.dll.config
 C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\NHAMIS.APP.dll
 C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\NHAMIS.APP.pdb
@@ -208,3 +308,102 @@ C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\obj\Debug\
 C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\obj\Debug\NHAMIS.APP.csproj.CopyComplete
 C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\obj\Debug\NHAMIS.APP.dll
 C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\obj\Debug\NHAMIS.APP.pdb
+>>>>>>> 9c650b584cd243856d579ba4eb04cfb3ddd03c8f
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\netstandard.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.AppContext.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Collections.Concurrent.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Collections.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Collections.NonGeneric.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Collections.Specialized.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.ComponentModel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.ComponentModel.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Console.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Data.Common.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Contracts.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Debug.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Process.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Tools.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.TraceSource.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Diagnostics.Tracing.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Drawing.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Dynamic.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Globalization.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Globalization.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.Compression.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.IsolatedStorage.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.Pipes.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Linq.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Linq.Expressions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Linq.Parallel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Linq.Queryable.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.NameResolution.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.NetworkInformation.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.Ping.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.Requests.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.Security.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.Sockets.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.WebHeaderCollection.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.WebSockets.Client.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Net.WebSockets.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.ObjectModel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Reflection.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Reflection.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Reflection.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Resources.Reader.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Resources.ResourceManager.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Resources.Writer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.Handles.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.InteropServices.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.Numerics.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.Serialization.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Security.Claims.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.Csp.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Security.Principal.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Security.SecureString.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Text.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Text.Encoding.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Text.RegularExpressions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Threading.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Threading.Overlapped.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Threading.Tasks.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Threading.Thread.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Threading.ThreadPool.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Threading.Timer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.ValueTuple.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Xml.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Xml.XmlSerializer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Xml.XPath.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\NHAMIS.DOMAIN.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\NHAMIS\NHAMIS.APP\bin\NHAMIS.DOMAIN.pdb

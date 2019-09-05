@@ -1,0 +1,106 @@
+﻿
+@{
+    ViewBag.Title = "OtherDetails";
+}
+
+<div class="form-row">
+    <div class="form-group description-header">
+        <br />
+        <h3><u> Other Details</u></h3>
+    </div>
+
+</div>
+
+<form>
+
+    <div class="form-row">
+
+        <div class="form-group col-md-6">
+            <label for="Academic">Highest Academic Qualifications </label>
+            <select id="Academic" class="form-control">
+                <option selected>Choose...</option>
+                <option>Degree</option>
+                <option>Diploma </option>
+
+            </select>
+        </div>
+
+        <div class="form-group col-md-6">
+            <label for="Occupation">Occupation </label>
+            <input type="text" class="form-control" id="Occupation" placeholder="Occupation">
+        </div>
+    </div>
+
+    <div class="form-row">
+
+
+        <div class="form-group col-md-6">
+            <label for="Records">
+                Records of Public Service/Role in National Development:
+            </label>
+        </div>
+        <div class="form-group col-md-12">
+
+
+            <textarea name="Records" rows="6" cols="120"> Record the public services here..</textarea>
+        </div>
+    </div>
+
+
+    <div class="form-row">
+
+        <div class="form-group col-md-6">
+            <label for="PreviousAwards">PreviousAwards </label>
+            <input type="text" class="form-control" id="PreviousAwards" placeholder="Search By Name">
+        </div>
+
+        <div class="form-group col-md-10">
+            <table class="table table-dark" border="1">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Award</th>
+                        <th scope="col">Date</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Mark</td>
+                        <td>February 17, 2009</td>
+
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Jacob</td>
+                        <td>February 17, 2009</td>
+
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Larry</td>
+                        <td>February 17, 2009</td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+
+            <button type="submit" class="btn btn-default"><< Previous</button>
+
+        </div>
+        <div class="form-group col-md-6">
+
+            <button type="submit" class="btn btn-default">Next >></button>
+
+        </div>
+    </div>
+
+</form>

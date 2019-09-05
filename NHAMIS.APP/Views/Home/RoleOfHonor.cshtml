@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "RoleOfHonor";
+}
+
+<div class="form-row">
+    <div class="form-group description-header">
+        <br />
+        <h3><u> Add Role Of Honour</u></h3>
+    </div>
+
+</div>
+
+<form>
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="Name">Name </label>
+            <input type="text" class="form-control" id="Name" placeholder=" Names">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="SerialNo">SerialNo </label>
+            <input type="text" class="form-control" id="SerialNo" placeholder="SerialNo">
+        </div>
+
+    </div>
+
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="Academic">Highest Academic Qualifications </label>
+            <select id="Academic" class="form-control">
+                <option selected>Choose...</option>
+                <option>Degree</option>
+                <option>Diploma </option>
+
+            </select>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="DateOfConferement">Date Of Conferement </label>
+            <input type="text" class="form-control" id="DateOfConferement" placeholder="Date Of Conferement">
+        </div>
+
+    </div>
+
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="Nationality">Nationality</label>
+            <select id="Nationality" class="form-control">
+                <option selected>Choose...</option>
+                <option>Kenyan</option>
+                <option>Non-Kenyan</option>
+            </select>
+        </div>
+
+        <div class="form-group col-md-6">
+            <label for="Salutation">Salutation</label>
+            <select id="Salutation" class="form-control">
+                <option selected>Choose...</option>
+                <option>Salutation</option>
+                <option>Salutation</option>
+            </select>
+        </div>
+
+
+    </div>
+
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+
+            <button type="submit" class="btn btn-default"> Save</button>
+
+        </div>
+        <div class="form-group col-md-6">
+
+            <button type="submit" class="btn btn-danger">Clear</button>
+
+        </div>
+    </div>
+
+</form>
+

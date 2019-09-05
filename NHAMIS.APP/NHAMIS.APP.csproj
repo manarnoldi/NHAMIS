@@ -173,9 +173,19 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909050747188_Initial.cs" />
+    <Compile Include="Migrations\201909050747188_Initial.Designer.cs">
+      <DependentUpon>201909050747188_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Initialization\ModelService.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="Models\NHAMISContext.cs" />
+>>>>>>> 10991d65eabbbea0211eeaeb5af53e79bd851e4f
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -396,6 +406,10 @@
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Models\Initialization\Constituencies.txt" />
+    <Content Include="Models\Initialization\Counties.txt" />
+    <Content Include="Models\Initialization\PostalCodesKenya.txt" />
+    <Content Include="Models\Initialization\Wards.txt" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="fonts\FontAwesome.otf" />
@@ -488,6 +502,14 @@
       <Name>NHAMIS.DOMAIN</Name>
     </ProjectReference>
   </ItemGroup>
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201909050747188_Initial.resx">
+      <DependentUpon>201909050747188_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+>>>>>>> 10991d65eabbbea0211eeaeb5af53e79bd851e4f
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

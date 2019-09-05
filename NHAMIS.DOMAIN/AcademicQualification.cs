@@ -1,15 +1,16 @@
-﻿using System;
+﻿using NHAMIS.DOMAIN;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
 namespace NHAMIS.APP.Models
 {
-    public class AcademicQualification
+    public class AcademicQualification : NHAMISBaseClass
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
-
-        public virtual Nomination Nomination { get; set; } 
+        public int NominationId { get; set; }
+        public Nomination Nomination { get; set; }
     }
 }
